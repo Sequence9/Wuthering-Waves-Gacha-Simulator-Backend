@@ -1,0 +1,16 @@
+{
+  "lynae_banner": {
+    "name": "Requiem Without End",
+    "featured_5star": "Lynae",
+    "standard_5stars": ["Verina", "Encore", "Calcharo", "Jianxin", "Lingyang"],
+	"rate_up_4stars": ["Chixia", "Danjin", "Mortefi"],
+    "rates": { "5star": 0.008, "4star": 0.06 }
+  },
+  "mornye_banner": {
+    "name": "Neptune's Lullaby",
+    "featured_5star": "Mornye",
+    "standard_5stars": ["Verina", "Encore", "Calcharo", "Jianxin", "Lingyang"],
+	"rate_up_4stars": ["Chixia", "Danjin", "Mortefi"],
+    "rates": { "5star": 0.008, "4star": 0.06 }
+  }
+}
